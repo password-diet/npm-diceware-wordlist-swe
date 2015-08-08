@@ -1,13 +1,13 @@
-diceware-wordlist-en
+diceware-wordlist-swe
 =========
 
-An english wordlist for the diceware password generation method
+A swedish wordlist for the diceware password generation method
 
 ## Installation
 
-  npm install diceware-wordlist-en --save
+  npm install diceware-wordlist-swe --save
 
 ## Usage
 
-  var dw_en = require('diceware-wordlist-en');  
-  dw_en['34553'];		# 'jolly'
+  var dw_swe = require('diceware-wordlist-swe');  
+  dw_swe['34553'];		# 'kompis'

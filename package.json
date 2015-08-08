@@ -1,14 +1,14 @@
 {
-  "name": "diceware-wordlist-en",
-  "version": "1.0.0",
-  "description": "The english Diceware wordlist",
+  "name": "diceware-wordlist-swe",
+  "version": "1.0.1",
+  "description": "The swedish Diceware wordlist",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/password-diet/npm-diceware-wordlist-en.git"
+    "url": "git+https://github.com/password-diet/npm-diceware-wordlist-swe.git"
   },
   "keywords": [
     "diceware",
@@ -18,9 +18,9 @@
   "author": "Csaba Okrona <ochronus@ochronus.com> (https://ochronus.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/password-diet/npm-diceware-wordlist-en/issues"
+    "url": "https://github.com/password-diet/npm-diceware-wordlist-swe/issues"
   },
-  "homepage": "https://github.com/password-diet/npm-diceware-wordlist-en#readme",
+  "homepage": "https://github.com/password-diet/npm-diceware-wordlist-swe#readme",
   "devDependencies": {
     "chai": "^3.2.0",
     "js-combinatorics": "^0.5.0",
